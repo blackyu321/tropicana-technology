@@ -1,0 +1,23 @@
+.navbar-brand { padding: 2px }
+.logo { max-height: 80px; margin-left: 10px; margin-top: -6px; }
+.fw { width: 100%; overflow: hidden; }
+.mw { min-width: 100% }
+.footer { max-width: 400px; margin: auto; padding: 40px 0 }
+.footer a { color: #000 }
+.copyright { padding: 10px; }
+.navbar { margin-bottom: 0 }
+.navbar > .container-fluid { padding-right: 0 }
+.navbar-nav>li>a { padding: 30px; background: #eee }
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover { background-color: #a4bf69; color: #fff }
+.navbar-default { background: #fff }
+.banner { position: relative; }
+.banner h1 { position: absolute; max-width: 30%; color: #fff; top: 30%; transform: translateY(-50%); font-size: 3em }
+.innerpage .container { }
+.innerpage h1 { text-transform: uppercase; }
+.innerimg { margin-bottom: 20px; }
+.innerpage { padding: 40px 0 80px; }
+.innerpage .container { max-width: 1000px }
+.privacy-page h4 { margin-top: 40px; font-weight: bold; }
+@media (min-width:768px) {
+	body { font-size: 18px }
+}
